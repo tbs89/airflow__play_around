@@ -1,0 +1,15 @@
+# Python
+*.pyc
+__pycache__/
+
+# Airflow
+logs/
+plugins/
+dags/__pycache__/
+
+# Virtual Environment
+venv/
+.env
+
+# Docker
+docker-compose.yaml
